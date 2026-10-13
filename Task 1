@@ -13,6 +13,62 @@
         <th>Photo</th>
         <td>Gambar: <img src="gambar.jpeg" alt="Gambar"></td>
     </tr>
+
+    
+    <tr>
+        <th>Date of birth</th>
+        <td colspan="3">12/07/2005</td>
+    </tr>
+
+    <tr>
+        <th>Religion</th>
+        <td>Islam</td>
+        <th>Race</th>
+        <td>Melayu</td>
+    </tr>
+
+    <tr>
+        <th rowspan="4">Address</th>
+        <th>Street</th>
+        <td colspan="2">PT 713,Jalan Hadapan Tabika Kemas</td>
+    </tr>
+
+    <tr>
+        <th>Town</th>
+        <td colspan="2">Kampung Delima</td>
+    </tr>
+
+    <tr>
+        <th>District</th>
+        <td colspan="2">Wakaf Bharu</td>
+    </tr>
+
+    <tr>
+        <th>State</th>
+        <td colspan="2">Kelantan</td>
+    </tr>
+
+    
+    <tr>
+        <th rowspan="3">Contact</th>
+        <th>Mobile Phone</th>
+        <td colspan="2">01137561959</td>
+    </tr>
+
+    <tr>
+        <th>Social Media</th>
+        <td colspan="2">
+        <a href="https://www.facebook.com/">Facebook</a>
+        </td>
+    </tr>
+
+    <tr>
+        <th>Website</th>
+        <td colspan="2">
+        <a href="https://github.com/">Github</a>
+        </td>
+    </tr>
+
 </table>
 </body>
 </html>
