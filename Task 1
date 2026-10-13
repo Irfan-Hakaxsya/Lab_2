@@ -7,29 +7,28 @@
 <body>
     <h1>My Personal Information</h1>
 
-<table border="1">
+<table border="1" width="100%">
     <tr>
         <td>Name</td>
         <td>IRFAN SYAHMI BIN IBRAHIM</td>
-        <td colspan="2">Photo</td>
-        <td><img src="gambar.jpeg" alt="Gambar"width="250">
-        </td>
+        <th>Photo
+            <br><img src="gambar.jpeg" alt="Gambar" width="120">
+        </th>
     </tr>
 
     <tr>
         <td>Date of birth</td>
-        <td colspan="3">12/07/2005</td>
+        <td colspan="2">12/07/2005</td>
     </tr>
 
-    
     <tr>
         <td>Religion</td>
-        <td colspan="3">Islam</td>
+        <td colspan="2">Islam</td>
     </tr>
 
     <tr>
         <td>Race</td>
-        <td colspan="3">Melayu</td>
+        <td colspan="2">Melayu</td>
     </tr>
 
     <tr>
