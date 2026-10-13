@@ -3,16 +3,49 @@
 <html>
 <head>
     <title>My Personal Information</title>
+    
+<style>
+    body {
+        font-family: "Times New Roman", serif;
+    }
+
+    h1 {
+        text-align: center;
+    }
+
+    table {
+        width: 100%;
+        border-collapse: collapse;
+        table-layout: auto;
+    }
+
+    th, td {
+        border: 1px solid black;
+        padding: 5px;
+        text-align: left;
+        vertical-align: middle;
+    }
+
+    th {
+        font-weight: bold;
+    }
+
+    img {
+        width: 120px;
+        height: auto;
+    }
+</style>
+
 </head>
 <body>
     <h1>My Personal Information</h1>
 
-<table border="1" width="100%">
+<table>
     <tr>
         <td>Name</td>
         <td>IRFAN SYAHMI BIN IBRAHIM</td>
         <th>Photo
-            <br><img src="gambar.jpeg" alt="Gambar" width="120">
+            <br><img src="gambar.jpeg" alt="Gambar">
         </th>
     </tr>
 
