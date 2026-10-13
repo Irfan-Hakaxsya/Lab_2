@@ -7,7 +7,7 @@
 <body>
     <h1>My Personal Information</h1>
 
-<table border="1" width="100%">
+<table border="1">
     <tr>
         <td>Name</td>
         <td>IRFAN SYAHMI BIN IBRAHIM</td>
