@@ -2,11 +2,12 @@
 <html>
 <head>
     <title>My Personal Information</title>
+
 </head>
 <body>
     <h1>My Personal Information</h1>
 
-<table border="1">
+<table border="1" width="100%">
     <tr>
         <th>Name</th>
         <td>IRFAN SYAHMI BIN IBRAHIM</td>
@@ -22,8 +23,10 @@
 
     <tr>
         <th>Religion</th>
+        <td colspan="2"></td>
         <td>Islam</td>
         <th>Race</th>
+        <td colspan="2"></td>
         <td>Melayu</td>
     </tr>
 
