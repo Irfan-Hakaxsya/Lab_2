@@ -5,5 +5,14 @@
 </head>
 <body>
     <h1>My Personal Information</h1>
+
+<table border="1">
+    <tr>
+        <th>Name</th>
+        <td>IRFAN SYAHMI BIN IBRAHIM</td>
+        <th>Photo</th>
+        <td>Gambar: <img src="gambar.jpeg" alt="Gambar"></td>
+    </tr>
+</table>
 </body>
 </html>
